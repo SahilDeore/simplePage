@@ -2,3 +2,23 @@ body {
     background-image: url("bgimg.jpg");
     color: white;
 }
+
+h1 {
+    text-align: center;
+    color: green;
+}
+
+#test-area {
+    width: 500px;
+    height: 500px;
+    background-color: #AAA;
+    margin: auto;
+    position: relative;
+}
+
+#box {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: goldenrod;
+}
